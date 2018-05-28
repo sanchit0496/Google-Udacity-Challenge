@@ -1,15 +1,22 @@
 body {
     text-align: center;
-}
+    background-color:#d6cbd3;
+  }
+
 
 h1 {
-    font-family: Monoton;
+    font-family: Noto+Serif;
     font-size: 70px;
     margin: 0.2em;
+    color:white;
+    background-image:url("http://spayce.me/wp-content/uploads/2018/02/triple-monitor-pixel-art-wallpaper-2560x1440.jpg");
+
 }
 
 h2 {
     margin: 1em 0 0.25em;
+  color:black;
+  font-family: 'Slabo 27px', serif;
 }
 
 h2:first-of-type {

@@ -1,1 +1,49 @@
 /* add your CSS here */
+/* add your CSS here */
+
+body
+{
+    border: 1px solid black;
+    box-shadow: 5px 10px rgba(153,153,153,0.5);
+   width: 300px;
+    padding: 2%;
+    padding-top:1%;
+}
+
+h3
+{
+    font-family: Times New Roman;
+    font-size: 25px;
+}
+img
+{
+    width: 300px;
+    margin-bottom: 5%;
+}
+.about
+{
+    border: 1px solid black;
+   width: 98%;
+    padding:1%;
+}
+p{
+    padding-left: 4%;
+    padding-right:4%;
+}
+span
+{
+    font-weight: bold;
+}
+ul
+{
+  list-style-type: none;
+}
+li
+{
+    line-height: 1.2;
+}
+p
+{
+    font-size: 15px;
+    line-height: 1.3;
+}
